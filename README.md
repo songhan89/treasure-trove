@@ -24,3 +24,6 @@ My personal repository for all recommended courses/articles/papers/books related
 ## Management Principles
 * [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth](https://www.amazon.sg/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=asc_df_024134848X/?tag=googleshoppin-22&linkCode=df0&hvadid=389049660685&hvpos=&hvnetw=g&hvrand=17701076637587390457&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062512&hvtargid=pla-440960730426&psc=1) `book`
 * [High Output Management](https://www.amazon.sg/High-Output-Management-Andrew-Grove/dp/0679762884/ref=asc_df_0679762884/?tag=googleshoppin-22&linkCode=df0&hvadid=389124471048&hvpos=&hvnetw=g&hvrand=1958147450115323380&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062514&hvtargid=pla-487139763997&psc=1) `book`
+
+## Data Visualisation
+* [Fundamentals of Data Visualization by Claus O. Wilke](https://clauswilke.com/dataviz/)
