@@ -10,7 +10,7 @@ This is work in progress
 
 ## Satellite Meteorology
 
-## Casual Inference
+## Causal Inference
 
 ## Experimentation
 
