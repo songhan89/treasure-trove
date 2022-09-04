@@ -2,7 +2,7 @@
 
 @updated: 4 Sep 2022
 
-My personal repository for all recommended courses/articles/papers/books related to data analytics/science, machine learning, software engineering, weather and climate, management.
+My personal repository for all recommended courses/articles/papers/books related to weather and climate, data analytics/science, machine learning, software engineering , management.
 
 ## Must Read Papers in Meteorology
 
