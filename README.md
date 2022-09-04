@@ -20,6 +20,7 @@ My personal repository for all recommended courses/articles/papers/books related
 * [How to Build Good Software (Li Hongyi)](https://www.csc.gov.sg/articles/how-to-build-good-software)  `article`
 * [Software Engineering Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/?fbclid=IwAR1TPTfWU_XoeMLjOXaXQNqJNuMsIxfokmkqM5mBiExC-T9stGN8GWmiWsA)  `article`
 * [The Top 10 Things Executives Should Know About Software](https://cacm.acm.org/magazines/2019/7/237712-the-top-10-things-executives-should-know-about-software/fulltext) `article`
+* [Mythical Man Month)(https://www.amazon.sg/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?adgrpid=98801527874&gclid=CjwKCAjw9suYBhBIEiwA7iMhNMqqURDKkvJKwu6UePGlwQoQb465FGeqNWyoEvwF2yo0pHVz7xQxaRoCSUoQAvD_BwE&hvadid=584074661405&hvdev=c&hvlocphy=9062514&hvnetw=g&hvqmt=e&hvrand=10975768581011670754&hvtargid=kwd-297943366783&hydadcr=3469_325591&keywords=mythical+man+month&qid=1662273049&sr=8-1)
 
 ## Understanding Psychology of Weather Forecasting
 
