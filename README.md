@@ -4,6 +4,8 @@
 
 My personal repository for all recommended courses/articles/papers/books related to weather and climate, data analytics/science, machine learning, software engineering , management.
 
+This is work in progress
+
 ## Must Read Papers in Meteorology
 
 ## Satellite Meteorology
@@ -13,6 +15,8 @@ My personal repository for all recommended courses/articles/papers/books related
 ## Experimentation
 
 ## Data Structure and Algorithms
+
+## Statistics
 
 
 ## Software Engineering
