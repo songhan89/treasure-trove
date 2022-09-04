@@ -1,9 +1,11 @@
 # treasure-trove
-My personal repository for all must-read articles/papers/books related to data science, software engineering, weather and climate, management.
+My personal repository for all recommended courses/articles/papers/books related to data analytics/science, machine learning, software engineering, weather and climate, management.
 
 ## Must Read Papers in Meteorology
 
-## A/B Testing
+## Experimentation
+
+## Data Structure and Algorithms
 
 
 ## Software Engineering
