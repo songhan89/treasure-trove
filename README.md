@@ -4,7 +4,7 @@ My personal repository for all must-read articles/papers/books related to data s
 
 ## Software Engineering
 
-* [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
+* [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software) `Li Hongyi (Open Government Products)`
 * [Software Engineering Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/?fbclid=IwAR1TPTfWU_XoeMLjOXaXQNqJNuMsIxfokmkqM5mBiExC-T9stGN8GWmiWsA)
 * [The Top 10 Things Executives Should Know About Software](https://cacm.acm.org/magazines/2019/7/237712-the-top-10-things-executives-should-know-about-software/fulltext)
 
