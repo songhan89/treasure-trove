@@ -18,6 +18,5 @@ My personal repository for all recommended courses/articles/papers/books related
 
 * [Thinking, Fast and Slow](https://www.amazon.sg/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=asc_df_0141033576/?tag=googleshoppin-22&linkCode=df0&hvadid=389120532389&hvpos=&hvnetw=g&hvrand=17701076637587390457&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062512&hvtargid=pla-394582189334&psc=1)
 
-## 
-
+## Management Principles
 * [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth](https://www.amazon.sg/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=asc_df_024134848X/?tag=googleshoppin-22&linkCode=df0&hvadid=389049660685&hvpos=&hvnetw=g&hvrand=17701076637587390457&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062512&hvtargid=pla-440960730426&psc=1)
