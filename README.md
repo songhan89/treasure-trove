@@ -10,7 +10,7 @@ My personal repository for all recommended courses/articles/papers/books related
 
 ## Software Engineering
 
-* [How to Build Good Software by Li Hongyi](https://www.csc.gov.sg/articles/how-to-build-good-software)  `article`
+* [How to Build Good Software (Li Hongyi)](https://www.csc.gov.sg/articles/how-to-build-good-software)  `article`
 * [Software Engineering Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/?fbclid=IwAR1TPTfWU_XoeMLjOXaXQNqJNuMsIxfokmkqM5mBiExC-T9stGN8GWmiWsA)  `article`
 * [The Top 10 Things Executives Should Know About Software](https://cacm.acm.org/magazines/2019/7/237712-the-top-10-things-executives-should-know-about-software/fulltext) `article`
 
