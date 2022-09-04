@@ -6,6 +6,10 @@ My personal repository for all recommended courses/articles/papers/books related
 
 ## Must Read Papers in Meteorology
 
+## Satellite Meteorology
+
+## Casual Inference
+
 ## Experimentation
 
 ## Data Structure and Algorithms
